@@ -363,10 +363,8 @@
     "settings.appearance.publicName": "Offentlig",
     "settings.bounces.action": "Åtgärd",
     "settings.bounces.blocklist": "Blocklista",
-    "settings.bounces.complaint": "Complaint",
     "settings.bounces.count": "Antal studsar",
     "settings.bounces.countHelp": "Antal studsar per prenumerant",
-    "settings.bounces.delete": "Delete",
     "settings.bounces.enable": "Aktivera studsbehandling",
     "settings.bounces.enableMailbox": "Aktivera studs-e-postlåda",
     "settings.bounces.enablePostmark": "Aktivera Postmark",
@@ -376,7 +374,6 @@
     "settings.bounces.enabled": "Aktiverad",
     "settings.bounces.folder": "Mapp",
     "settings.bounces.folderHelp": "Namn på IMAP-mappen att skanna. t.ex: Inkorgen.",
-    "settings.bounces.hard": "Hard",
     "settings.bounces.invalidScanInterval": "Studsskanningsintervall bör vara minst 1 minut.",
     "settings.bounces.name": "Bounces",
     "settings.bounces.none": "None",
@@ -386,7 +383,6 @@
     "settings.bounces.scanInterval": "Scan interval",
     "settings.bounces.scanIntervalHelp": "Interval at which the bounce mailbox should be scanned for bounces (s for second, m for minute).",
     "settings.bounces.sendgridKey": "SendGrid Key",
-    "settings.bounces.soft": "Soft",
     "settings.bounces.type": "Typ",
     "settings.bounces.username": "Användarnamn",
     "settings.confirmRestart": "Se till att pågående kampanjer är pausade. Starta om?",
@@ -590,5 +586,9 @@
     "templates.rawHTML": "Rå HTML",
     "templates.subject": "Ämne",
     "users.login": "Logga in",
-    "users.logout": "Logga ut"
+    "users.logout": "Logga ut",
+    "settings.bounces.complaint": "Complaint",
+    "settings.bounces.delete": "Delete",
+    "settings.bounces.hard": "Hard",
+    "settings.bounces.soft": "Soft"
 }

@@ -363,10 +363,8 @@
     "settings.appearance.publicName": "Publiczne",
     "settings.bounces.action": "Akcja",
     "settings.bounces.blocklist": "Lista zablokowanych",
-    "settings.bounces.complaint": "Complaint",
     "settings.bounces.count": "Liczba odbić",
     "settings.bounces.countHelp": "Liczba odbić na subskrybenta",
-    "settings.bounces.delete": "Usuń",
     "settings.bounces.enable": "Włącz procesowanie odbić",
     "settings.bounces.enableMailbox": "Włącz skrzynkę pocztową z odbiciami",
     "settings.bounces.enablePostmark": "Włącz Postmark",
@@ -376,7 +374,6 @@
     "settings.bounces.enabled": "Włączone",
     "settings.bounces.folder": "Folder",
     "settings.bounces.folderHelp": "Nazwa folderu IMAP do skanowania. Np: Inbox.",
-    "settings.bounces.hard": "Hard",
     "settings.bounces.invalidScanInterval": "Interwał czasu powinien być minimum 1 minuta.",
     "settings.bounces.name": "Odbicia",
     "settings.bounces.none": "Brak",
@@ -386,7 +383,6 @@
     "settings.bounces.scanInterval": "Interwał skanowania",
     "settings.bounces.scanIntervalHelp": "Interwał czasu przeszukiwania skrzynki w poszkukiwaniu odbić (s dla sekund, m dla minut).",
     "settings.bounces.sendgridKey": "Klucz SendGrid",
-    "settings.bounces.soft": "Soft",
     "settings.bounces.type": "Typ",
     "settings.bounces.username": "Nazwa użytkownika",
     "settings.confirmRestart": "Upewnij się, że uruchomione kampanie są zapauzowane. Zrestartować?",
@@ -590,5 +586,9 @@
     "templates.rawHTML": "Surowy HTML",
     "templates.subject": "Temat",
     "users.login": "Zaloguj",
-    "users.logout": "Wyloguj"
+    "users.logout": "Wyloguj",
+    "settings.bounces.complaint": "Complaint",
+    "settings.bounces.delete": "Usuń",
+    "settings.bounces.hard": "Hard",
+    "settings.bounces.soft": "Soft"
 }

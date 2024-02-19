@@ -363,10 +363,8 @@
     "settings.appearance.publicName": "പൊതു",
     "settings.bounces.action": "നടപടി",
     "settings.bounces.blocklist": "ബ്ലോക്ക് ലിസ്റ്റ്",
-    "settings.bounces.complaint": "പരാതി",
     "settings.bounces.count": "ബൗൺസായവയുടെ എണ്ണം",
     "settings.bounces.countHelp": "വരിക്കാർക്കു ആനുപാതികയി ബൗൺസുകളുടെ എണ്ണം",
-    "settings.bounces.delete": "നീക്കം ചെയ്യുക",
     "settings.bounces.enable": "ബൗൺസ് പ്രോസസ്സിംഗ് പ്രവർത്തനക്ഷമമാക്കുക",
     "settings.bounces.enableMailbox": "ബൗൺസ് മെയിൽബോക്സ് പ്രവർത്തനക്ഷമമാക്കുക",
     "settings.bounces.enablePostmark": "Postmark പ്രവർത്തനക്ഷമമാക്കുക",
@@ -376,7 +374,6 @@
     "settings.bounces.enabled": "പ്രവർത്തനക്ഷമമാക്കി",
     "settings.bounces.folder": "ഫോൾഡർ",
     "settings.bounces.folderHelp": "സ്കാൻ ചെയ്യാനുള്ള IMAP ഫോൾഡറിന്റെ പേര്. ഉദാ: ഇൻബോക്സ്.",
-    "settings.bounces.hard": "Hard",
     "settings.bounces.invalidScanInterval": "ബൗൺസ് സ്കാൻ ചെയ്യാനുള്ള ഏറ്റവും കുറഞ്ഞ ഇടവേള 1 മിനിറ്റായിരിക്കണം.",
     "settings.bounces.name": "ബൗൺസുകൾ",
     "settings.bounces.none": "ഒന്നുമില്ല",
@@ -386,7 +383,6 @@
     "settings.bounces.scanInterval": "സ്കാൻ ചെയ്യാനുള്ള ഇടവേള",
     "settings.bounces.scanIntervalHelp": "ബൗൺസ് മെയിൽബോക്‌സ് സ്‌കാൻ ചെയ്യേണ്ട ഇടവേള (സെക്കൻഡിന് s, മിനിറ്റിന് m).",
     "settings.bounces.sendgridKey": "SendGrid കീ",
-    "settings.bounces.soft": "Soft",
     "settings.bounces.type": "തരം",
     "settings.bounces.username": "ഉപഭോക്തൃനാമം",
     "settings.confirmRestart": "റണ്ണിംഗ് കാമ്പെയ്‌നുകൾ താൽക്കാലികമായി നിർത്തിയെന്ന് ഉറപ്പാക്കുക. പുനരാരംഭിക്കുട്ടേ?",
@@ -590,5 +586,9 @@
     "templates.rawHTML": "HTML",
     "templates.subject": "വിഷയം",
     "users.login": "പ്രവേശിക്കുക",
-    "users.logout": "പുറത്തുകടക്കുക"
+    "users.logout": "പുറത്തുകടക്കുക",
+    "settings.bounces.complaint": "പരാതി",
+    "settings.bounces.delete": "നീക്കം ചെയ്യുക",
+    "settings.bounces.hard": "Hard",
+    "settings.bounces.soft": "Soft"
 }

@@ -363,10 +363,8 @@
     "settings.appearance.publicName": "Veřejné",
     "settings.bounces.action": "Akce",
     "settings.bounces.blocklist": "Seznam blokovaných",
-    "settings.bounces.complaint": "Complaint",
     "settings.bounces.count": "Počet případů nedoručitelnosti",
     "settings.bounces.countHelp": "Počet případů nedoručitelnosti na odběratele",
-    "settings.bounces.delete": "Odstranit",
     "settings.bounces.enable": "Povolit zpracování nedoručitelnosti",
     "settings.bounces.enableMailbox": "Povolit poštovní schránku v případě nedoručitelnosti",
     "settings.bounces.enablePostmark": "Povolit Postmark",
@@ -376,7 +374,6 @@
     "settings.bounces.enabled": "Povoleno",
     "settings.bounces.folder": "Složka",
     "settings.bounces.folderHelp": "Název složky IMAP ke skenování. Např.: Došlá pošta.",
-    "settings.bounces.hard": "Hard",
     "settings.bounces.invalidScanInterval": "Interval skenování v případě nedoručitelnosti by měl být minimálně 1 minuta.",
     "settings.bounces.name": "Případy nedoručitelnosti",
     "settings.bounces.none": "Žádné",
@@ -386,7 +383,6 @@
     "settings.bounces.scanInterval": "Interval skenování",
     "settings.bounces.scanIntervalHelp": "Interval, ve kterém by se poštovní schránka v případě nedoručitelnosti měla skenovat na nedoručitelnost (s - sekundy, m - minuty).",
     "settings.bounces.sendgridKey": "Klíč SendGrid",
-    "settings.bounces.soft": "Soft",
     "settings.bounces.type": "Typ",
     "settings.bounces.username": "Jméno uživatele",
     "settings.confirmRestart": "Ujistěte se, že jsou běžící kampaně pozastavené. Restartovat?",
@@ -590,5 +586,9 @@
     "templates.rawHTML": "Kód HTML",
     "templates.subject": "Předmět",
     "users.login": "Přihlásit",
-    "users.logout": "Odhlásit"
+    "users.logout": "Odhlásit",
+    "settings.bounces.complaint": "Complaint",
+    "settings.bounces.delete": "Odstranit",
+    "settings.bounces.hard": "Hard",
+    "settings.bounces.soft": "Soft"
 }

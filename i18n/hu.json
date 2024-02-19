@@ -363,10 +363,8 @@
     "settings.appearance.publicName": "Nyilvános",
     "settings.bounces.action": "Művelet",
     "settings.bounces.blocklist": "Tiltás",
-    "settings.bounces.complaint": "Complaint",
     "settings.bounces.count": "Visszapattanások száma",
     "settings.bounces.countHelp": "Visszapattanások száma tagokra lebontva",
-    "settings.bounces.delete": "Törlés",
     "settings.bounces.enable": "Visszapattanások feldolgozása",
     "settings.bounces.enableMailbox": "Visszapattanó postafiók",
     "settings.bounces.enablePostmark": "Postmark",
@@ -376,7 +374,6 @@
     "settings.bounces.enabled": "Engedélyezve",
     "settings.bounces.folder": "Mappa",
     "settings.bounces.folderHelp": "A vizsgálandó IMAP mappa neve. Például: 'Inbox'",
-    "settings.bounces.hard": "Hard",
     "settings.bounces.invalidScanInterval": "Az ellenőrzés gyakorisága 1 percnél nagyobb kell legyen.",
     "settings.bounces.name": "Visszapattanók",
     "settings.bounces.none": "Nincs",
@@ -386,7 +383,6 @@
     "settings.bounces.scanInterval": "Ellenőrzés gyakorisága",
     "settings.bounces.scanIntervalHelp": "A visszapattanó e-mailek ellenőrzésének gyakorisága. (s: másodperc, m: perc)",
     "settings.bounces.sendgridKey": "Kulcs",
-    "settings.bounces.soft": "Soft",
     "settings.bounces.type": "Típus",
     "settings.bounces.username": "Név",
     "settings.confirmRestart": "Újraindítás előtt győződjön meg róla, hogy a futó kampányok szünetelnek!",
@@ -590,5 +586,9 @@
     "templates.rawHTML": "HTML Forrás",
     "templates.subject": "Tárgy",
     "users.login": "Belépés",
-    "users.logout": "Kijelentkezés"
+    "users.logout": "Kijelentkezés",
+    "settings.bounces.complaint": "Complaint",
+    "settings.bounces.delete": "Törlés",
+    "settings.bounces.hard": "Hard",
+    "settings.bounces.soft": "Soft"
 }

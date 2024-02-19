@@ -363,10 +363,8 @@
     "settings.appearance.publicName": "公开",
     "settings.bounces.action": "行动",
     "settings.bounces.blocklist": "黑名单",
-    "settings.bounces.complaint": "Complaint",
     "settings.bounces.count": "反弹计数",
     "settings.bounces.countHelp": "每个订阅者的反弹次数",
-    "settings.bounces.delete": "删除",
     "settings.bounces.enable": "启用退回处理",
     "settings.bounces.enableMailbox": "启用退回邮箱",
     "settings.bounces.enablePostmark": "启用Postmark",
@@ -376,7 +374,6 @@
     "settings.bounces.enabled": "已启用",
     "settings.bounces.folder": "文件夹",
     "settings.bounces.folderHelp": "要扫描的 IMAP 文件夹的名称。例如：收件箱。",
-    "settings.bounces.hard": "Hard",
     "settings.bounces.invalidScanInterval": "反弹扫描间隔应至少为 1 分钟。",
     "settings.bounces.name": "反弹",
     "settings.bounces.none": "无",
@@ -386,7 +383,6 @@
     "settings.bounces.scanInterval": "扫描间隔",
     "settings.bounces.scanIntervalHelp": "应扫描退回邮箱以查找退回邮件的时间间隔（s 表示秒，m 表示分钟）。",
     "settings.bounces.sendgridKey": "SendGrid键",
-    "settings.bounces.soft": "Soft",
     "settings.bounces.type": "类型",
     "settings.bounces.username": "用户名",
     "settings.confirmRestart": "确保暂停正在运行的广告系列。重新开始？",
@@ -590,5 +586,9 @@
     "templates.rawHTML": "原始HTML",
     "templates.subject": "主题",
     "users.login": "登录",
-    "users.logout": "登出"
+    "users.logout": "登出",
+    "settings.bounces.complaint": "Complaint",
+    "settings.bounces.delete": "删除",
+    "settings.bounces.hard": "Hard",
+    "settings.bounces.soft": "Soft"
 }

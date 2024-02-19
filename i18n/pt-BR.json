@@ -363,10 +363,8 @@
     "settings.appearance.publicName": "Publico",
     "settings.bounces.action": "Ação",
     "settings.bounces.blocklist": "Lista de bloqueio",
-    "settings.bounces.complaint": "Complaint",
     "settings.bounces.count": "Contagem Bounce",
     "settings.bounces.countHelp": "Número de bounces por assinante",
-    "settings.bounces.delete": "Deletar",
     "settings.bounces.enable": "Ativar processamento de bounce",
     "settings.bounces.enableMailbox": "Ativar caixa de email de bounce",
     "settings.bounces.enablePostmark": "Ativar Postmark",
@@ -376,7 +374,6 @@
     "settings.bounces.enabled": "Ativado",
     "settings.bounces.folder": "Pasta",
     "settings.bounces.folderHelp": "Noma da pasta IMAP para escanear. Ex: Inbox.",
-    "settings.bounces.hard": "Hard",
     "settings.bounces.invalidScanInterval": "Intervalo de escaneamento de Bounce deve ser no mínimo 1 minuto.",
     "settings.bounces.name": "Rejeições",
     "settings.bounces.none": "Nenhuma",
@@ -386,7 +383,6 @@
     "settings.bounces.scanInterval": "Intervalo de Escaneamento",
     "settings.bounces.scanIntervalHelp": "Intervalo no qual a caixa de emails de bounce deve ser escaneada por bounces (s para segundo, m para minuto).",
     "settings.bounces.sendgridKey": "Key SendGrid",
-    "settings.bounces.soft": "Soft",
     "settings.bounces.type": "Tipo",
     "settings.bounces.username": "Nome de usuário",
     "settings.confirmRestart": "Certifique-se de que as campanhas em execução estão pausadas. Reiniciar?",
@@ -590,5 +586,9 @@
     "templates.rawHTML": "Código HTML",
     "templates.subject": "Assunto",
     "users.login": "Entrar",
-    "users.logout": "Sair"
+    "users.logout": "Sair",
+    "settings.bounces.complaint": "Complaint",
+    "settings.bounces.delete": "Deletar",
+    "settings.bounces.hard": "Hard",
+    "settings.bounces.soft": "Soft"
 }

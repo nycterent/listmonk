@@ -363,10 +363,8 @@
     "settings.appearance.publicName": "Publiek",
     "settings.bounces.action": "Actie",
     "settings.bounces.blocklist": "Geblokkeerd",
-    "settings.bounces.complaint": "Complaint",
     "settings.bounces.count": "Aantal bounces",
     "settings.bounces.countHelp": "Aantal bounces per abonnee",
-    "settings.bounces.delete": "Verwijder",
     "settings.bounces.enable": "Bounce processing inschakelen",
     "settings.bounces.enableMailbox": "Bounce mailbox inschakelen",
     "settings.bounces.enablePostmark": "Postmark inschakelen",
@@ -376,7 +374,6 @@
     "settings.bounces.enabled": "Ingeschakeld",
     "settings.bounces.folder": "Map",
     "settings.bounces.folderHelp": "Naam van de IMAP map om te scannen. Bv.: Inbox.",
-    "settings.bounces.hard": "Hard",
     "settings.bounces.invalidScanInterval": "Bounce scan interval moet minstens 1 minuut zijn.",
     "settings.bounces.name": "Bounces",
     "settings.bounces.none": "Geen",
@@ -386,7 +383,6 @@
     "settings.bounces.scanInterval": "Scaninterval",
     "settings.bounces.scanIntervalHelp": "Interval waarin de bounce mailbox gescanned moet worden voor bounces (s voor seconden, m voor minuten).",
     "settings.bounces.sendgridKey": "SendGrid sleutel",
-    "settings.bounces.soft": "Soft",
     "settings.bounces.type": "Type",
     "settings.bounces.username": "Gebruikersnaam",
     "settings.confirmRestart": "Zorg dat lopende campagnes gepauzeerd zijn. Herstarten?",
@@ -590,5 +586,9 @@
     "templates.rawHTML": "HTML code",
     "templates.subject": "Onderwerp",
     "users.login": "Inloggen",
-    "users.logout": "Uitloggen"
+    "users.logout": "Uitloggen",
+    "settings.bounces.complaint": "Complaint",
+    "settings.bounces.delete": "Verwijder",
+    "settings.bounces.hard": "Hard",
+    "settings.bounces.soft": "Soft"
 }
